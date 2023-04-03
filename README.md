@@ -18,7 +18,6 @@ This web application is used to generate a basic logo based on user input
 
 ## Usage
 
-- click the link - (https://kenneilsmith.github.io/SVG_logo_maker_challenge_10/)
 
 ## Features
 
